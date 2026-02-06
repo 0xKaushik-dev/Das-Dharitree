@@ -5,7 +5,7 @@ export const NAV_LINKS = ["Skills", "Personal Info", "Education", "Contact"];
 
 // Placeholder image for Dharitree Das. 
 // Replace this URL with the actual path to the user's image (e.g., "/profile.jpg") or a hosted URL.
-export const PROFILE_IMAGE = "https://images.unsplash.com/photo-1615022702095-ff2c036f3360?q=80&w=300&auto=format&fit=crop";
+export const PROFILE_IMAGE = "/assets/profile.jpg";
 
 export const SERVICES: ServiceItem[] = [
   {
