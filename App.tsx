@@ -6,6 +6,7 @@ import { Stats } from './components/Stats';
 import { SkillsGrid } from './components/SkillsGrid';
 import { FeaturedVisual } from './components/FeaturedVisual';
 import { PersonalDetails } from './components/PersonalDetails';
+import { TeachingExperience } from './components/TeachingExperience';
 import { Testimonial } from './components/ui/clean-testimonial';
 import { Faq } from './components/Faq';
 import { Footer } from './components/Footer';
@@ -18,6 +19,7 @@ function App() {
         <Hero />
         <Bio />
         <Stats />
+        <TeachingExperience />
         <SkillsGrid />
         <FeaturedVisual />
         <PersonalDetails />
