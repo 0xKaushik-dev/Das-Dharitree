@@ -33,7 +33,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Language",
     role: "Proficiency",
     company: "Linguistic",
-    avatar: "https://ui-avatars.com/api/?name=En&background=111&color=fff",
+    avatar: "https://ui-avatars.com/api/?name=En&background=random",
     rating: 5,
     featured: true, // English
   },
@@ -42,7 +42,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Language",
     role: "Proficiency",
     company: "Linguistic",
-    avatar: "https://ui-avatars.com/api/?name=Od&background=111&color=fff",
+    avatar: "https://ui-avatars.com/api/?name=Od&background=random",
     rating: 5,
   },
   {
@@ -50,7 +50,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Language",
     role: "Proficiency",
     company: "Linguistic",
-    avatar: "https://ui-avatars.com/api/?name=Hi&background=111&color=fff",
+    avatar: "https://ui-avatars.com/api/?name=Hi&background=random",
     rating: 5,
   },
   {
@@ -58,7 +58,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Date of Birth",
     role: "Personal",
     company: "Bio-data",
-    avatar: "https://ui-avatars.com/api/?name=DOB&background=111&color=fff",
+    avatar: "https://ui-avatars.com/api/?name=DOB&background=random",
     rating: 5,
   },
   {
@@ -66,7 +66,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Gender",
     role: "Personal",
     company: "Bio-data",
-    avatar: "https://ui-avatars.com/api/?name=F&background=111&color=fff",
+    avatar: "https://ui-avatars.com/api/?name=F&background=random",
     rating: 5,
     featured: true
   },
@@ -75,7 +75,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Marital Status",
     role: "Personal",
     company: "Bio-data",
-    avatar: "https://ui-avatars.com/api/?name=S&background=111&color=fff",
+    avatar: "https://ui-avatars.com/api/?name=S&background=random",
     rating: 5,
   },
 ];
