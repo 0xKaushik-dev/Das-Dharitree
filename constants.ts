@@ -5,7 +5,7 @@ export const NAV_LINKS = ["Skills", "Personal Info", "Education", "Contact"];
 
 // Placeholder image for Dharitree Das. 
 // Replace this URL with the actual path to the user's image (e.g., "/profile.jpg") or a hosted URL.
-export const PROFILE_IMAGE = "/assets/profile.jpg";
+export const PROFILE_IMAGE = "https://images.unsplash.com/photo-1615022702095-ff2c036f3360?q=80&w=300&auto=format&fit=crop";
 
 export const SERVICES: ServiceItem[] = [
   {
@@ -33,7 +33,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Language",
     role: "Proficiency",
     company: "Linguistic",
-    avatar: "https://ui-avatars.com/api/?name=En&background=random",
+    avatar: "https://ui-avatars.com/api/?name=En&background=111&color=fff",
     rating: 5,
     featured: true, // English
   },
@@ -42,7 +42,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Language",
     role: "Proficiency",
     company: "Linguistic",
-    avatar: "https://ui-avatars.com/api/?name=Od&background=random",
+    avatar: "https://ui-avatars.com/api/?name=Od&background=111&color=fff",
     rating: 5,
   },
   {
@@ -50,7 +50,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Language",
     role: "Proficiency",
     company: "Linguistic",
-    avatar: "https://ui-avatars.com/api/?name=Hi&background=random",
+    avatar: "https://ui-avatars.com/api/?name=Hi&background=111&color=fff",
     rating: 5,
   },
   {
@@ -58,7 +58,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Date of Birth",
     role: "Personal",
     company: "Bio-data",
-    avatar: "https://ui-avatars.com/api/?name=DOB&background=random",
+    avatar: "https://ui-avatars.com/api/?name=DOB&background=111&color=fff",
     rating: 5,
   },
   {
@@ -66,7 +66,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Gender",
     role: "Personal",
     company: "Bio-data",
-    avatar: "https://ui-avatars.com/api/?name=F&background=random",
+    avatar: "https://ui-avatars.com/api/?name=F&background=111&color=fff",
     rating: 5,
     featured: true
   },
@@ -75,7 +75,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     author: "Marital Status",
     role: "Personal",
     company: "Bio-data",
-    avatar: "https://ui-avatars.com/api/?name=S&background=random",
+    avatar: "https://ui-avatars.com/api/?name=S&background=111&color=fff",
     rating: 5,
   },
 ];
